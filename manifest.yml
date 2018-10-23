@@ -6,4 +6,4 @@ applications:
   env:
     WELCOME_MESSAGE: Hello from the review environment.
   routes:
-    - route: pal-tracker-sleepy-meerkat.cfapps.io
+    - route: pal-tracker-funky-hamster.cfapps.io
